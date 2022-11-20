@@ -1,0 +1,12 @@
+{
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "aiXcoder.showTrayIcon": true,
+  "files.associations": {
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "xlocale": "cpp",
+    "utility": "cpp",
+    "xtree": "cpp",
+    "xmemory": "cpp"
+  }
+}
